@@ -1,0 +1,19 @@
+ h1 {
+    font-family: segoe script;
+    color: slateblue;
+    background-color: rgb(224, 110, 110);
+}
+h5 p {
+    color: lightcoral;
+    background-color: aquamarine;
+    border: 6px dashed peru
+}
+a {
+    color: slateblue;
+}
+
+p {
+   font-family: segoe script;
+    color: slateblue;
+    background-color: rgb(224, 110, 110);
+} 
